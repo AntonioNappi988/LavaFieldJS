@@ -1,8 +1,8 @@
 
 
-modulo js realizzato per il mio sito portfolio **Portfolio:** [antonionappi.pages.dev](https://antonionappi.pages.dev)dev (visionabile live come funziona)
+modulo js realizzato per il mio sito portfolio **Portfolio:** [antonionappi.pages.dev](https://antonionappi.pages.dev)  
 
-js module made specifically for my portfolio dev site **Portfolio:** [antonionappi.pages.dev](https://antonionappi.pages.dev) (see how it works live)
+js module made specifically for my portfolio dev site **Portfolio:** [antonionappi.pages.dev](https://antonionappi.pages.dev) 
  
  <p align="center">
   <img src="https://github.com/user-attachments/assets/da5bf48c-173d-4dca-9de6-6615c87639ac" alt="Lava Lamp WebGL Preview" width="350">
