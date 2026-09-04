@@ -1,4 +1,3 @@
-<img width="500" height="500" alt="Gemini_Generated_Image_z1yh3pz1yh3pz1yh-removebg-preview" src="https://github.com/user-attachments/assets/da5bf48c-173d-4dca-9de6-6615c87639ac" />
 
 
 modulo js realizzato per il mio sito portfolio **Portfolio:** [antonionappi.pages.dev](https://antonionappi.pages.dev)dev (visionabile live come funziona)
